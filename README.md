@@ -1,4 +1,4 @@
-# BillboardHot100
+# Billboard Hot 100
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDA and hypothesis testing on Billboard Hot 100 weekly lists from the year 2000.
 
 ![](assets/rnr_country.png)
